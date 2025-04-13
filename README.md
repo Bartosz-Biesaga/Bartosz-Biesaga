@@ -1,5 +1,5 @@
 ## Hi there, I'm Bartosz Biesaga👋
-I study Applied Computer Science at AGH, if you want to learn more about me visit my [Linkedin profile](https://www.linkedin.com/in/bartosz-biesaga-532218359/).
+I study Applied Computer Science at AGH, if you want to learn more about me visit my [LinkedIn profile](https://www.linkedin.com/in/bartosz-biesaga-532218359/).
 
 ##
 I'm currently working on:
