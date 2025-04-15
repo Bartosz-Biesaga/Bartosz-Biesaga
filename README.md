@@ -1,13 +1,18 @@
 ## Hi there, I'm Bartosz Biesaga👋
 I study Applied Computer Science at AGH, if you want to learn more about me visit my [LinkedIn profile](https://www.linkedin.com/in/bartosz-biesaga-532218359/).
 
-##
-I'm currently working on:
-- node.js backend for language learning platform (university course project) (7 person team),
-- C# WPF desktop application for processing XML documents that uses ADO.NET to communicate with Microsoft SQL Server database (university course project) (1 person team)
+## Technologies and Skills:
+- C/C++, Python, Java
+- JavaScript, Node.js
+- PostgreSQL
+- Django
+- PyTorch
 
-##
-Completed projects:
+## I'm currently working on:
+- Node.js backend for language learning platform (university course project) (7 person team),
+- C# WPF desktop application for processing XML documents that uses ADO.NET to communicate with Microsoft SQL Server (university course project) (1 person team)
+
+## Completed projects:
 - [Security System](https://github.com/Bartosz-Biesaga/Security-System) (4 person team):
 
 An AI-based security system that verifies employees by using face and silhouette feature extraction.
