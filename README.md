@@ -7,6 +7,7 @@ I study Applied Computer Science at AGH, if you want to learn more about me visi
 - PostgreSQL
 - Django
 - PyTorch
+- Linux
 
 ## I'm currently working on:
 - Node.js backend for language learning platform (university course project) (7 person team),
